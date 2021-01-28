@@ -42,7 +42,7 @@ library(BatchGetSymbols)
 library(lubridate)
 
 # -- Getting and using my credentials
-source('rhcred.R')
+source('C:\wandata\credentials\rhcred.R')
 RH = RobinHood(username = USERNAME, password = PSSWD)
 
 
