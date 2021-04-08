@@ -1,0 +1,30 @@
+
+Ivestopedia
+https://www.investopedia.com/
+
+Test
+Ttechnical analysis for support and resistance accuracy
+https://www.investopedia.com/terms/t/test.asp#:~:text=What%20Is%20a%20Test%3F,level%20set%20by%20the%20market.&text=However%2C%20if%20the%20stock%20price,new%20highs%2C%20the%20test%20fails.
+
+All NASDAQ stocks
+http://ftp.nasdaqtrader.com/Trader.aspx?id=symbollookup
+
+Data dictionary
+http://www.nasdaqtrader.com/trader.aspx?id=symboldirdefs
+
+Summaries
+Market value: Value of stocks (equity - buying power)
+Withdrawable amount: Buying power
+Equity: Total amount I have in the account (market value + withdrawable amount)
+
+My funds
+Cost: How much I paid total
+Current value: Current value of all shares
+Last trade price: last price of 1 share
+
+
+
+
+
+
+

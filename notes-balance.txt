@@ -1,0 +1,53 @@
+
+BALANCE SHEET
+
+
+Assets:
+Everything the business owns that can be liquidated into cash (house, car, forniture, investments, etc)
+
+	Net receivables:
+	Money owed to the company
+
+	Inventory:
+	Total dollar amount of stuff the business own (airplane fuel, parts for an airplane, etc)
+
+	Total Current assets:
+	Cash and other assets that are expected to be converted into cash within a year
+
+	Non-current assets:
+	Cash and other assets that won't be converted into cash within a year (12 months)
+
+
+
+Liabilities:
+What the company owes (card credit, mortgage)
+
+	Current liabilities:
+	Everything that's expected to be paid off i the next 12 months (a year)
+
+
+
+
+Stockhoder's equity
+When you buy a business, this is how much equity you get as a shareholder
+The number the balances out the balance sheet
+(total assets - total liabilities)
+If stockholder's equity is going down over the years, it means that the liabilities are growing faster than the assets
+
+	Retained earnings
+	Amount of net income the business generated after paying out all of its dividends
+
+
+How to determine if the company is stable:
+total current assets / total current liabilities
+Good to be above one (depending on the business, it's normal to be below 1 because they normally carry lots of debts, like airlines)
+A ratio above 2 is very good.
+A ratio above 3 will never go out of business
+The highest the ratio, the safer and less risky the company is.
+It will tell you how much debt the business has, compared to its assets
+
+See overtime if the total current assets, total cash, ratio, etc, are increasing or decreasing.
+
+View of total current assets vs total current liabilities will tell you how the company is doing
+
+
